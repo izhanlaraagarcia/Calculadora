@@ -82,7 +82,7 @@ Here you can list the key features of the project and the aspects that different
 
 feature 1
 feature 2
-Feature 3
+feature 3
 Used technology
 Here you can list the technologies used in the project. This can include programming languages, frameworks, libraries, and tools.
 
@@ -95,18 +95,33 @@ Here you can add instructions on how to install the project. This can include de
 
 ## Copy the code
 
-install command
-Use
-Here you can add instructions on how to use the project once it is installed. This can include commands, examples, and screenshots.
+```
+git clone https://github.com/izhanlaraagarcia/Calculator.git
+```
+
+[Clone repository without command](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+## Use
+
+```
+java .\calculator.java
+```
 
 ## License
+>What is the GPL v3 license?
+The GNU General Public License (GNU GPL) is a free, copyrighted license for software and other types of works.
 
-Here you can add information about the license used by the project. This may include the description of the license, the issuing organization, and any other necessary information. It is important that the license of the project is respected in order to be able to use and distribute it legally.
+[GPL-3.0 license](https://github.com/izhanlaraagarcia/Calculator/blob/main/LICENSE)
 
 </details>
 
-## Contacto
+## Contact
+> You can contact me at: :arrow_heading_down:
 
-Aquí se puede agregar información de contacto en caso de que alguien quiera hacer preguntas o comentarios sobre el proyecto. Esto puede incluir una dirección de correo electrónico o una cuenta de redes sociales.
+- [Github](https://github.com/izhanlaraagarcia)
+
+- <a href="mailto:izhanlaragarcia@gmail.com">izhanlaragarcia@gmail.com</a>
+
+[Linkedin](https://www.linkedin.com/in/izhan-lara-garc%C3%ADa/)
 
 <br clear="both">
