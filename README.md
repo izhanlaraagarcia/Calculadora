@@ -122,6 +122,6 @@ The GNU General Public License (GNU GPL) is a free, copyrighted license for soft
 
 - <a href="mailto:izhanlaragarcia@gmail.com">izhanlaragarcia@gmail.com</a>
 
-[Linkedin](https://www.linkedin.com/in/izhan-lara-garc%C3%ADa/)
+- [Linkedin](https://www.linkedin.com/in/izhan-lara-garc%C3%ADa/)
 
 <br clear="both">
